@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1745263182 source:c:\users\illas\onedrive\desktop\bmtp-9-laba\testdriver\modules\sumar.cpp
+	<iostream>
+	<cmath>
+	"Sumar.h"
+
+1745262018 source:c:\users\illas\onedrive\desktop\bmtp-9-laba\testdriver\testdriver.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Functions.h"
+
+1745261416 c:\users\illas\onedrive\desktop\bmtp-9-laba\testdriver\functions.h
+	<string>
+
+1745263804 source:c:\users\illas\onedrive\desktop\bmtp-9-laba\testdriver\modules\functions.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Functions.h"
+	"Sumar.h"
+
+1745263420 c:\users\illas\onedrive\desktop\bmtp-9-laba\testdriver\modules\functions.h
+	<string>
+
+1742415597 c:\users\illas\onedrive\desktop\bmtp-9-laba\testdriver\modules\sumar.h
+
+1745263804 source:d:\”˜Ó·‡\¡Ã“œ\bmtp_9_lab_work\sumar-illia-kb24\lab09\prj\testdriver\modules\functions.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Functions.h"
+	"Sumar.h"
+
+1745263420 d:\”˜Ó·‡\¡Ã“œ\bmtp_9_lab_work\sumar-illia-kb24\lab09\prj\testdriver\modules\functions.h
+	<string>
+
+1742415597 d:\”˜Ó·‡\¡Ã“œ\bmtp_9_lab_work\sumar-illia-kb24\lab09\prj\testdriver\modules\sumar.h
+
+1745263182 source:d:\”˜Ó·‡\¡Ã“œ\bmtp_9_lab_work\sumar-illia-kb24\lab09\prj\testdriver\modules\sumar.cpp
+	<iostream>
+	<cmath>
+	"Sumar.h"
+
