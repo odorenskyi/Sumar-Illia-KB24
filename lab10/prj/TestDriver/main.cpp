@@ -183,5 +183,6 @@ int main() {
     SetConsoleCP(65001);
 
     runTests();
+    system("pause");
     return 0;
 }
