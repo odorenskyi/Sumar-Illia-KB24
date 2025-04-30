@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1746031387 source:d:\bmtp\sumar-illia-kb24\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<cctype>
+	<windows.h>
+
