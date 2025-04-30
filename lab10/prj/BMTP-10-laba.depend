@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1746027106 source:c:\users\illas\onedrive\desktop\bmtp-10-laba\bmtp-10-laba\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+	<ctime>
+	<sstream>
+	<bitset>
+	<cctype>
+	<iomanip>
+	<cmath>
+	<regex>
+	"Modules/Sumar.h"
+
+1746022165 source:c:\users\illas\onedrive\desktop\bmtp-10-laba\bmtp-10-laba\modules\sumar.cpp
+	<cmath>
+
+1742415597 c:\users\illas\onedrive\desktop\bmtp-10-laba\bmtp-10-laba\modules\sumar.h
+
