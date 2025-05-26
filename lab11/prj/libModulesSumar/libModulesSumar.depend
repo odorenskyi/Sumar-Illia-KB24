@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1748195319 source:c:\users\gleb\desktop\labaratorna 11\123\libmodulessumar\main.cpp
+	"struct_type_project_6.h"
+	<iostream>
+	<algorithm>
+
+1748193622 c:\users\gleb\desktop\labaratorna 11\prj\h-files\struct_type_project_6.h
+	<string>
+

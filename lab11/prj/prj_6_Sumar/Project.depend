@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1748191519 source:c:\users\illas\onedrive\desktop\labwork_11\123\123\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<locale>
+	<windows.h>
+	<algorithm>
+
